@@ -1,22 +1,22 @@
 🕘️更新时间,#genre#
-2025-01-06 06:18:10,http://itms4.sdlk.vip:6721/hls/200/index.m3u8$订阅源-1920x1080
+2025-01-06 18:30:31,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$订阅源-3840x2160
 
 📺央视频道,#genre#
-CCTV-1,http://itms4.sdlk.vip:6721/hls/200/index.m3u8$订阅源-1920x1080
+CCTV-1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1$订阅源-3840x2160
+CCTV-1,http://42.48.50.138:9002/tsfile/live/0001_1.m3u8$订阅源-1920x1080
 CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
 CCTV-1,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8$订阅源-1920x1080
-CCTV-1,http://180.117.149.49:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
-CCTV-1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8$订阅源-1920x1080
+CCTV-1,http://221.224.4.170:1111/tsfile/live/0001_1.m3u8$订阅源-1920x1080
 CCTV-1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-2,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907&amp$订阅源-1920x1080
-CCTV-2,http://itms4.sdlk.vip:6721/hls/217/index.m3u8$订阅源-1920x1080
+CCTV-2,http://42.48.50.138:9002/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 CCTV-2,http://183.94.1.118:8801/tsfile/live/0002_1.m3u8$订阅源-1920x1080
-CCTV-2,http://180.117.149.49:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
+CCTV-2,http://221.224.4.170:1111/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 CCTV-2,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 CCTV-2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000012442/1.m3u8$订阅源-IPv6-1920x1080
