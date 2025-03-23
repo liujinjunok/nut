@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="2025-03-23 06:13:40" tvg-logo="https://live.fanmingming.cn/tv/2025-03-23 06:13:40.png" group-title="🕘️更新时间",2025-03-23 06:13:40
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+#EXTINF:-1 tvg-name="2025-03-23 18:21:11" tvg-logo="https://live.fanmingming.cn/tv/2025-03-23 18:21:11.png" group-title="🕘️更新时间",2025-03-23 18:21:11
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
@@ -26,11 +26,11 @@ http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://goo.bkpcp.top/mg/cctv2$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8$订阅源-1920x1080
+http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://112.81.218.254:35455/gaoma/cctv2.m3u8$订阅源-1920x1080
+http://3501776.xyz:35455/gaoma/cctv2.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
-http://huashetou.fun:35455/gaoma/cctv2.m3u8$订阅源-1920x1080
+http://36.138.252.14:35455/gaoma/cctv2.m3u8$订阅源-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
 http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="📺央视频道",CCTV-2
